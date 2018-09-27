@@ -2,11 +2,7 @@
   "domainUrl":"",
   "updateUrl":"http://appdown.1016wan.com/wanfeng_download/",
   "branches":[
-    {
-      "code":"1001",
-      "version":"1.0.1",
-      "status":"release"
-    },
+    
     {
       "code":"1003",
       "version":"1.0.3",
@@ -25,6 +21,11 @@
     {
       "code":"1006",
       "version":"1.0.6",
+      "status":"release"
+    },
+    {
+      "code":"1007",
+      "version":"1.0.7",
       "status":"release"
     }
   ]
